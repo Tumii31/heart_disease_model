@@ -1,3 +1,3 @@
 heart_disease_model/
-├── app.py
-└── requirements.txt
+├── heart_disease_model_app.py
+└── pip freeze > requirements.txt
